@@ -1,0 +1,29 @@
+quarter,resource_type,capacity_unit,available_capacity,data_status
+2027-Q1,Clinical Operations,FTE,23,synthetic
+2027-Q2,Clinical Operations,FTE,22,synthetic
+2027-Q3,Clinical Operations,FTE,24,synthetic
+2027-Q4,Clinical Operations,FTE,23,synthetic
+2027-Q1,R&D / Scientific,FTE,17,synthetic
+2027-Q2,R&D / Scientific,FTE,19,synthetic
+2027-Q3,R&D / Scientific,FTE,18,synthetic
+2027-Q4,R&D / Scientific,FTE,19,synthetic
+2027-Q1,CMC Development,FTE,18,synthetic
+2027-Q2,CMC Development,FTE,18,synthetic
+2027-Q3,CMC Development,FTE,19,synthetic
+2027-Q4,CMC Development,FTE,18,synthetic
+2027-Q1,Regulatory,FTE,11,synthetic
+2027-Q2,Regulatory,FTE,12,synthetic
+2027-Q3,Regulatory,FTE,12,synthetic
+2027-Q4,Regulatory,FTE,11,synthetic
+2027-Q1,Quality / QA,FTE,12,synthetic
+2027-Q2,Quality / QA,FTE,13,synthetic
+2027-Q3,Quality / QA,FTE,13,synthetic
+2027-Q4,Quality / QA,FTE,12,synthetic
+2027-Q1,Program Management,FTE,9,synthetic
+2027-Q2,Program Management,FTE,9,synthetic
+2027-Q3,Program Management,FTE,9,synthetic
+2027-Q4,Program Management,FTE,9,synthetic
+2027-Q1,Manufacturing,batch_slots,15,synthetic
+2027-Q2,Manufacturing,batch_slots,15,synthetic
+2027-Q3,Manufacturing,batch_slots,16,synthetic
+2027-Q4,Manufacturing,batch_slots,16,synthetic
